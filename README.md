@@ -14,7 +14,7 @@ A simple and elegant weather application built with Node.js and Express that pro
 
 ## Screenshot
 
-![Weather-app Screenshot](images/screenshot.png)
+![Weather-app Screenshot](images/image.png)
 
 ## Technologies Used
 
